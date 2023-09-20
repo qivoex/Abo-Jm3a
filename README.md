@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://cdn.discordapp.com/attachments/1051126580908404757/1154032261390413875/09c62903beeba336dc9da76eb5c9a107.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F2dnl6aWdkeTRxZjR1c3B2MWJhanZrMnVwdHBtd25vdWQzemR5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2laRP9C2CgEBTwUCZ2/giphy.gif" width="200"/>
 
 </p>
 
