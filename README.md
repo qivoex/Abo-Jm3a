@@ -31,12 +31,12 @@ Discord Server: <a href="https://discord.gg/rvtsXKuf2P">Welcome to my our server
   <a rel="nofollow noopener noreferrer" target="_blank" href="tahlehmohammed@gmail.com">
   <img src="	https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="30px" alt="HackerRank"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abo-Jm3a&theme=blue-green" width="30px" alt="LeetCode"></a>
+  <a rel="nofollow noopener noreferrer" target="Github">
+  <img src="https://img.shields.io/github/followers/Abo-Jm3a.svg?style=social&label=Follow&maxAge=2592000" width="30px" alt="LeetCode"></a>
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abo-Jm3a&theme=blue-green" width="23px" alt="Secret"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://t.me/Abo_jm3a">
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" width="23px" alt="Secret"></a>
 </p> 
 
 
