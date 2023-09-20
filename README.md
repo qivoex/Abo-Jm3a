@@ -23,20 +23,20 @@ Discord Server: <a href="https://discord.gg/rvtsXKuf2P">Welcome to my our server
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://youtube.com/@MrToM23">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="30px" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="30px" alt="YouTube"></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://steamcommunity.com/profiles/76561199509030324/">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="30px" alt="Twitter"></a>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="30px" alt="Steam"></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="tahlehmohammed@gmail.com">
-  <img src="	https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="30px" alt="HackerRank"></a>
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="30px" alt="PayPal"></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="Github">
-  <img src="https://img.shields.io/github/followers/Abo-Jm3a.svg?style=social&label=Follow&maxAge=2592000" width="30px" alt="LeetCode"></a>
+  <img src="https://img.shields.io/github/followers/Abo-Jm3a.svg?style=social&label=Follow&maxAge=2592000" width="30px" alt="Github"></a>
   &nbsp;
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://t.me/Abo_jm3a">
-  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" width="23px" alt="Secret"></a>
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" width="23px" alt="Telegram"></a>
 </p> 
 
 
