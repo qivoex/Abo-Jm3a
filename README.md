@@ -28,7 +28,7 @@ Discord Server: <a href="https://discord.gg/rvtsXKuf2P">Welcome to my our server
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://steamcommunity.com/profiles/76561199509030324/">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="30px" alt="Steam"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="tahlehmohammed@gmail.com">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="paypal.me/Mohammedjama1">
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="30px" alt="PayPal"></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="Github">
