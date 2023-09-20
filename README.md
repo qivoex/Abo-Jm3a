@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">More &nbsp; Info !</h2> </b>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV1ZTAwaTZmbmlkc241dGprejdsN2gwbmN0NHUwdXRlMWdncmZiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h01yJiPsF9CRqXqOZN/giphy.gif" width="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abo-Jm3a&theme=blue-green" width="200"/>
 
 Discord Server: <a href="https://discord.gg/rvtsXKuf2P">Welcome to my our server.</a>
 
