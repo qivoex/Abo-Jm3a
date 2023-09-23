@@ -3,7 +3,7 @@
   <a href="https://discord.gg/BsHca6J6W2">Discord</a> |
   <a href="https://www.youtube.com/@MrToM23">YouTube</a> |
   <a href="https://github.com/Abo-Jm3a">Github</a><br><br>
-  <img src="https://media.discordapp.net/attachments/1154761009135890444/1155157156753063966/52dd0e286add257d6284d53634cb2d8a.gif" width="1000">
+  <img src="https://cdn.discordapp.com/attachments/1154761009135890444/1155157931738796092/95efb8425d270933e5e890b33ab5ef70.gif" width="1000">
   </p>
 
 ```bash
