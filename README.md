@@ -3,17 +3,17 @@
   <a href="https://discord.gg/BsHca6J6W2">Discord</a> |
   <a href="https://www.youtube.com/@MrToM23">YouTube</a> |
   <a href="https://github.com/Abo-Jm3a">Github</a><br><br>
-  <img src="https://cdn.discordapp.com/attachments/1154761009135890444/1155157931738796092/95efb8425d270933e5e890b33ab5ef70.gif" width="1000">
+  <img src="https://cdn.discordapp.com/attachments/975036883958636557/975080429197590618/tumblr_00fca58e088e62fee1268fba5e7196d0_ab2ffa4a_500.webp" width="1000">
   </p>
 
 ```bash
 > neofetch
 ```
 
-<img src="https://cdn.discordapp.com/attachments/1154761009135890444/1155157156342010006/7ccb48d10bbeacf2e8252e2186668ce9.gif" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="250">
+<img src="https://camo.githubusercontent.com/5256f260dc380bcb09bf91ba68ddcbd1e7356068e60eecfbad78133ad67a7ff5/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3933393436353037323037393333373639392f413434413244323442423938373236374632364335363434304635314130423436383438313232322f" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="250">
 
 ```py
-Plasmonix@github
+Abo-Jm3a@github
 ----------------
 
        OS  :  Arch Linux
@@ -29,8 +29,8 @@ Languages  :  Python, JS, C++
 
 <p align="left">
   <a href="https://plasmonix.github.io">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Plasmonix&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Plasmonix&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Abo-Jm3a&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abo-Jm3a&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
