@@ -16,19 +16,19 @@
 Abo-Jm3a@github
 ----------------
 
-       OS  :  Arch Linux
-       WM  :  i3-gaps
-    Shell  :  Bash
+      GPU  :  NVIDIA GeForce GT 1030
+      CPU  :  AMD Ryzen 5 3600 6-Core 3.59 GHz
+      RAM  :  16.0 GB
  Terminal  :  Terminator
-      CPU  :  I9
-    Alias  :  Plasmonix
-    Infos  :  16yo English developer!
-Languages  :  Python, JS, C++
+    Alias  :  Abo-Jm3a
+    Infos  :  17yo Arabic developer!
+  Country  :  Jordan 🇯🇴
+Languages  :  Python, JS, Kali Linux
 ```
 <hr>
 
 <p align="left">
-  <a href="https://plasmonix.github.io">
+  <a href="https://Abo-Jm3a.github.io">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Abo-Jm3a&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abo-Jm3a&theme=gruvbox&hide_border=true" />
   </a>
