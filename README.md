@@ -20,7 +20,7 @@ Abo-Jm3a@github
       CPU  :  AMD Ryzen 5 3600 6-Core 3.59 GHz
       RAM  :  16.0 GB
  Terminal  :  Terminator
-    Alias  :  Abo-Jm3a
+    Alias  :  Abo Jm3a
     Infos  :  17yo Arabic developer!
   Country  :  Jordan 🇯🇴
 Languages  :  Python, JS, Kali Linux
